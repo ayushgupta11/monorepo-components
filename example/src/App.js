@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-import ExampleComponent from 'lumenore-monorepo'
+import { ExampleComponent } from 'lumenore-monorepo'
 
 export default class App extends Component {
   render () {
